@@ -13,6 +13,6 @@ preparing the data,
 - connected the two tables based on the date
 - calculated the variance amount and the % variance using the standerdized equations
 Data visualization,
-- exported the results table to a seperate .csv file
+- exported the results table to a seperate .csv file (data-1724486893214.csv)
 - using powerBi, different measure were creating ex. sum of actual sales, total budgeted amount..etc
 - key influencers 
